@@ -9,4 +9,4 @@ JiaWei-Chen-2295/JiaWei-Chen-2295 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiaWei-Chen-2295)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiaWei-Chen-2295)](https://github.com/anuraghazra/github-readme-stats)
